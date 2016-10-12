@@ -5,5 +5,7 @@ Project 1
 Group members:
 
 Mevin Chen    mevin.chen@csu.fullerton.edu
+
 Gyromee Hatcher   gyromee@csu.fullerton.edu
+
 Araceli O. Jaimes   araceli.o@csu.fullerton.edu
